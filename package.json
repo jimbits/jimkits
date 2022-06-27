@@ -4,7 +4,7 @@
   "description": "none",
   "main": "index.js",
   "bin": {
-    "create": "bin/index.js"
+    "@jimbits/stater-kits": "bin/index.js"
   },
   "scripts": {
     "start": "node ./bin/index.js",
