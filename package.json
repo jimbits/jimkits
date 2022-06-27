@@ -1,0 +1,30 @@
+{
+  "name": "@jimbits/stater-kits",
+  "version": "1.0.4",
+  "description": "none",
+  "main": "index.js",
+  "bin": {
+    "create": "bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "starter-kits": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimbits/starter-kits.git"
+  },
+  "keywords": [
+    "starter kits for front end development made simple"
+  ],
+  "author": "james foley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimbits/starter-kits/issues"
+  },
+  "homepage": "https://github.com/jimbits/starter-kits#readme",
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  },
+  "type": "module"
+}
