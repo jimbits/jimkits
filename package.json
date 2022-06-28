@@ -1,10 +1,10 @@
 {
-  "name": "@jimbits/stater-kits",
+  "name": "@jimbits/starter-kits",
   "version": "1.0.9",
   "description": "none",
   "main": "index.js",
   "bin": {
-    "@jimbits/stater-kits": "bin/index.js",
+    "@jimbits/starter-kits": "bin/index.js",
     "create-project": "bin/index.js"
   },
   "scripts": {
